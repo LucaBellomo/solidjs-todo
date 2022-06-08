@@ -1,0 +1,22 @@
+.app__title-input {
+  margin-bottom: 2rem;
+}
+
+.todo--done p {
+  text-decoration: line-through;
+  color: lightgrey;
+}
+
+h2 {
+  color: mediumslateblue;
+}
+
+button {
+  height: 30px;
+  width: 30px;
+  border: none;
+  cursor: pointer;
+  font-size: 14px;
+  background: mediumslateblue;
+  color: whitesmoke;
+}
